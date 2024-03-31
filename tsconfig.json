@@ -1,0 +1,12 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json"
+  // "compilerOptions": {
+  //   "baseUrl": ".",
+  //   "paths": {
+  //     "~*": ["src/*"]
+  //   },
+  //   "lib": ["es5", "es6", "dom"],
+  //   "esModuleInterop": true,
+  //   "skipLibCheck": true
+  // }
+}
